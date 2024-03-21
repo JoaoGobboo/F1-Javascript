@@ -1,4 +1,4 @@
-et balance = 100;
+let balance = 100;
 let raceInProgress = false;
 
 function placeBet() {
